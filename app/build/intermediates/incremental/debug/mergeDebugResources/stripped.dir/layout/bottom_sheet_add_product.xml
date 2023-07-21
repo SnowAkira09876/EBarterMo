@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add_product"
+            android:textAppearance="?attr/textAppearanceHeadline5" />
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/iv_product"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:paddingTop="10dp"
+            android:paddingBottom="15dp"
+            app:shapeAppearanceOverlay="@style/RoundedImage"
+            app:srcCompat="@drawable/ic_placeholder" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tl_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/description"
+            android:paddingTop="15dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/te_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:maxLength="20" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tl_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Category"
+            android:paddingTop="15dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/te_category"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tl_phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/phone_number"
+            android:paddingTop="15dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/te_phone_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="11" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tl_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/location"
+            android:paddingTop="15dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/te_location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tl_reason"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/reason"
+            android:paddingTop="15dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/te_reason"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tl_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/details"
+            android:paddingTop="15dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/te_details"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tl_payment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/payment"
+            android:paddingTop="15dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/te_payment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="11" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btn_post"
+            style="@style/Widget.Material3.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/post" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/cancel" />
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

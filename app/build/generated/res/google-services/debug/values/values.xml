@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">810500453919-esvgo1rbb2o8r934ugsopf78532v5c3l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">810500453919</string>
+    <string name="google_api_key" translatable="false">AIzaSyCULJmvtE_WLVSbSomS1QsBSIDax-aEu-k</string>
+    <string name="google_app_id" translatable="false">1:810500453919:android:1b174ad284c72d5c4f072a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCULJmvtE_WLVSbSomS1QsBSIDax-aEu-k</string>
+    <string name="google_storage_bucket" translatable="false">e-barter-mo.appspot.com</string>
+    <string name="project_id" translatable="false">e-barter-mo</string>
+</resources>

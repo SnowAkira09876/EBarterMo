@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="md_theme_dark_background">#201A18</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_inverseOnSurface">#201A18</color>
+    <color name="md_theme_dark_inversePrimary">#9A4522</color>
+    <color name="md_theme_dark_inverseSurface">#EDE0DC</color>
+    <color name="md_theme_dark_onBackground">#EDE0DC</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_onPrimary">#5B1B00</color>
+    <color name="md_theme_dark_onPrimaryContainer">#FFDBCF</color>
+    <color name="md_theme_dark_onSecondary">#442A20</color>
+    <color name="md_theme_dark_onSecondaryContainer">#FFDBCF</color>
+    <color name="md_theme_dark_onSurface">#EDE0DC</color>
+    <color name="md_theme_dark_onSurfaceVariant">#D8C2BB</color>
+    <color name="md_theme_dark_onTertiary">#393005</color>
+    <color name="md_theme_dark_onTertiaryContainer">#F2E2A8</color>
+    <color name="md_theme_dark_outline">#A08D86</color>
+    <color name="md_theme_dark_primary">#FFB59A</color>
+    <color name="md_theme_dark_primaryContainer">#7B2E0D</color>
+    <color name="md_theme_dark_secondary">#E7BEAF</color>
+    <color name="md_theme_dark_secondaryContainer">#5D4035</color>
+    <color name="md_theme_dark_surface">#201A18</color>
+    <color name="md_theme_dark_surfaceVariant">#53433E</color>
+    <color name="md_theme_dark_tertiary">#D5C68E</color>
+    <color name="md_theme_dark_tertiaryContainer">#50471A</color>
+    <color name="md_theme_light_background">#FFFBFF</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_inverseOnSurface">#FBEEEA</color>
+    <color name="md_theme_light_inversePrimary">#FFB59A</color>
+    <color name="md_theme_light_inverseSurface">#362F2C</color>
+    <color name="md_theme_light_onBackground">#201A18</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#380D00</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_onSecondaryContainer">#2C160D</color>
+    <color name="md_theme_light_onSurface">#201A18</color>
+    <color name="md_theme_light_onSurfaceVariant">#53433E</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_onTertiaryContainer">#211B00</color>
+    <color name="md_theme_light_outline">#85736D</color>
+    <color name="md_theme_light_primary">#9A4522</color>
+    <color name="md_theme_light_primaryContainer">#FFDBCF</color>
+    <color name="md_theme_light_secondary">#77574C</color>
+    <color name="md_theme_light_secondaryContainer">#FFDBCF</color>
+    <color name="md_theme_light_surface">#FFFBFF</color>
+    <color name="md_theme_light_surfaceVariant">#F5DED6</color>
+    <color name="md_theme_light_tertiary">#695E2F</color>
+    <color name="md_theme_light_tertiaryContainer">#F2E2A8</color>
+    <string name="accept">Accept</string>
+    <string name="add_product">Add Product</string>
+    <string name="app_name">e-Barter MO</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create account</string>
+    <string name="decline">Decline</string>
+    <string name="default_web_client_id" translatable="false">810500453919-esvgo1rbb2o8r934ugsopf78532v5c3l.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="description">Description</string>
+    <string name="details">Details</string>
+    <string name="edit">Edit</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="email_address">Email address</string>
+    <string name="fab_behavior">com.app.ebarter.utils.FabScrolling</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="full_name">Full Name</string>
+    <string name="gcm_defaultSenderId" translatable="false">810500453919</string>
+    <string name="google_api_key" translatable="false">AIzaSyCULJmvtE_WLVSbSomS1QsBSIDax-aEu-k</string>
+    <string name="google_app_id" translatable="false">1:810500453919:android:1b174ad284c72d5c4f072a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCULJmvtE_WLVSbSomS1QsBSIDax-aEu-k</string>
+    <string name="google_storage_bucket" translatable="false">e-barter-mo.appspot.com</string>
+    <string name="location">Location</string>
+    <string name="next">Next</string>
+    <string name="password">Password</string>
+    <string name="payment">Payment</string>
+    <string name="phone_number">Phone number</string>
+    <string name="post">Post</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">e-barter-mo</string>
+    <string name="reason">Reason</string>
+    <string name="request">Request</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="send_offer">Send Offer</string>
+    <string name="sign_in_with_your_account">Sign in with your account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_up_a_new_account">Sign up a new account</string>
+    <string name="view_offer">View offer</string>
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_light_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/md_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_light_onTertiaryContainer</item>
+        <item name="colorError">@color/md_theme_light_error</item>
+        <item name="colorErrorContainer">@color/md_theme_light_errorContainer</item>
+        <item name="colorOnError">@color/md_theme_light_onError</item>
+        <item name="colorOnErrorContainer">@color/md_theme_light_onErrorContainer</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_light_onSurfaceVariant</item>
+        <item name="colorOutline">@color/md_theme_light_outline</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_light_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/md_theme_light_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/md_theme_light_inversePrimary</item>
+
+        
+        <item name="android:windowLightStatusBar" ns1:targetApi="23">true</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="27">true</item>
+        <item name="android:navigationBarColor" ns1:targetApi="27">@android:color/transparent
+        </item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:enforceStatusBarContrast" ns1:targetApi="29">false</item>
+        <item name="android:enforceNavigationBarContrast" ns1:targetApi="29">false</item>
+
+        <item name="android:windowActivityTransitions">true</item>
+
+    </style>
+    <style name="AppTheme.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/AppTheme</item>
+    </style>
+    <style name="CircularImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="RoundedImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">3%</item>
+    </style>
+</resources>

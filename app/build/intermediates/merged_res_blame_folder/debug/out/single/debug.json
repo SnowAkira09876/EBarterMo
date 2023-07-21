@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_item_review.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_bottom_sheet_view_offer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\bottom_sheet_view_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_item_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\item_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-mdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\menu_menu_product.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\menu\\menu_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_fragment_request.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_item_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\item_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_fragment_review.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\fragment_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_review.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.app.ebarter.app-merged_res-47:/layout_bottom_sheet_add_product.xml.flat",
+        "source": "com.app.ebarter.app-main-49:/layout/bottom_sheet_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_bottom_sheet_add_product.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\bottom_sheet_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_bottom_sheet_add_offer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\bottom_sheet_add_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable-mdpi_ic_splash.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable-mdpi\\ic_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-hdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_call.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\drawable_ic_placeholder.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\drawable\\ic_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_item_request.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\item_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-merged_res-47:\\layout_bottom_sheet_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.app.ebarter.app-main-49:\\layout\\bottom_sheet_profile.xml"
+    }
+]

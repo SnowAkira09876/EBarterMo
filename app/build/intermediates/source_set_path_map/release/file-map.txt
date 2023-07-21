@@ -1,0 +1,50 @@
+com.app.ebarter.app-databinding-runtime-8.0.2-0 C:\Users\User\.gradle\caches\transforms-3\00f8ef7e45377a8b8620e2f967d6a285\transformed\databinding-runtime-8.0.2\res
+com.app.ebarter.app-lifecycle-livedata-2.4.0-1 C:\Users\User\.gradle\caches\transforms-3\048a0777ebae5064343f7d1568168727\transformed\lifecycle-livedata-2.4.0\res
+com.app.ebarter.app-appcompat-1.6.1-2 C:\Users\User\.gradle\caches\transforms-3\0c16321d61abf89621813ca237766522\transformed\appcompat-1.6.1\res
+com.app.ebarter.app-jetified-startup-runtime-1.1.1-3 C:\Users\User\.gradle\caches\transforms-3\1c85f457689d2e632ddc2c8602e92738\transformed\jetified-startup-runtime-1.1.1\res
+com.app.ebarter.app-jetified-viewpager2-1.0.0-4 C:\Users\User\.gradle\caches\transforms-3\1e68255dd6735e041f728ec30fdb26e4\transformed\jetified-viewpager2-1.0.0\res
+com.app.ebarter.app-sqlite-2.3.0-5 C:\Users\User\.gradle\caches\transforms-3\206c45b8dc165b8484d84fa351e5d4f7\transformed\sqlite-2.3.0\res
+com.app.ebarter.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-6 C:\Users\User\.gradle\caches\transforms-3\214d54a8f75fe8bc4c0ae7df026f6f1d\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.app.ebarter.app-jetified-work-rxjava3-2.8.1-7 C:\Users\User\.gradle\caches\transforms-3\286dd7b494999a91fa8b7545049efa79\transformed\jetified-work-rxjava3-2.8.1\res
+com.app.ebarter.app-jetified-lifecycle-process-2.4.1-8 C:\Users\User\.gradle\caches\transforms-3\366f3ff01f8abb4be1ddcf38908a5a9e\transformed\jetified-lifecycle-process-2.4.1\res
+com.app.ebarter.app-databinding-adapters-8.0.2-9 C:\Users\User\.gradle\caches\transforms-3\39d3bf3e281d43e7d14f5f12e997449b\transformed\databinding-adapters-8.0.2\res
+com.app.ebarter.app-drawerlayout-1.1.1-10 C:\Users\User\.gradle\caches\transforms-3\4012f86b19a8c06ca2fd27abf7d9e695\transformed\drawerlayout-1.1.1\res
+com.app.ebarter.app-jetified-core-splashscreen-1.0.0-beta02-11 C:\Users\User\.gradle\caches\transforms-3\43d9355e847d08ac0a5f51fddff271b5\transformed\jetified-core-splashscreen-1.0.0-beta02\res
+com.app.ebarter.app-jetified-paging-rxjava3-3.0.0-12 C:\Users\User\.gradle\caches\transforms-3\477f0bd6e74e09a69ccf5cba4e1b25bc\transformed\jetified-paging-rxjava3-3.0.0\res
+com.app.ebarter.app-transition-1.2.0-13 C:\Users\User\.gradle\caches\transforms-3\4fc820c318265d84320fa3b5e8ab2090\transformed\transition-1.2.0\res
+com.app.ebarter.app-room-runtime-2.5.0-14 C:\Users\User\.gradle\caches\transforms-3\53034d66286d6a8908638fd3fc87e203\transformed\room-runtime-2.5.0\res
+com.app.ebarter.app-jetified-firebase-common-20.3.3-15 C:\Users\User\.gradle\caches\transforms-3\569b274bde1c8e0b2a1a7e288f29117a\transformed\jetified-firebase-common-20.3.3\res
+com.app.ebarter.app-coordinatorlayout-1.1.0-16 C:\Users\User\.gradle\caches\transforms-3\587c3019a53755d8ac808303f162c126\transformed\coordinatorlayout-1.1.0\res
+com.app.ebarter.app-recyclerview-1.2.1-17 C:\Users\User\.gradle\caches\transforms-3\5d6a539444274a76b9b0cb982e76da48\transformed\recyclerview-1.2.1\res
+com.app.ebarter.app-jetified-activity-1.6.0-18 C:\Users\User\.gradle\caches\transforms-3\79cccce471f8fb401d7f1f1f02fd1578\transformed\jetified-activity-1.6.0\res
+com.app.ebarter.app-jetified-savedstate-1.2.0-19 C:\Users\User\.gradle\caches\transforms-3\7a1afa5c9f4beb326e36219753f75fc3\transformed\jetified-savedstate-1.2.0\res
+com.app.ebarter.app-fragment-1.5.1-20 C:\Users\User\.gradle\caches\transforms-3\8250f81286a383562a9dfa3178c76daa\transformed\fragment-1.5.1\res
+com.app.ebarter.app-jetified-annotation-experimental-1.3.0-21 C:\Users\User\.gradle\caches\transforms-3\8721f6d4131eeda88b8b1b35ae41febc\transformed\jetified-annotation-experimental-1.3.0\res
+com.app.ebarter.app-jetified-core-ktx-1.10.1-22 C:\Users\User\.gradle\caches\transforms-3\8be021d744e83cbd3a63d7e001c6289f\transformed\jetified-core-ktx-1.10.1\res
+com.app.ebarter.app-jetified-emoji2-1.2.0-23 C:\Users\User\.gradle\caches\transforms-3\92979c2bdd27a7228ec2dd49f1582862\transformed\jetified-emoji2-1.2.0\res
+com.app.ebarter.app-jetified-play-services-base-18.0.1-24 C:\Users\User\.gradle\caches\transforms-3\9e590e3013873f5ea59743e732c217db\transformed\jetified-play-services-base-18.0.1\res
+com.app.ebarter.app-jetified-play-services-basement-18.1.0-25 C:\Users\User\.gradle\caches\transforms-3\9fafb0765226a7baa18208957e1c2b83\transformed\jetified-play-services-basement-18.1.0\res
+com.app.ebarter.app-sqlite-framework-2.3.0-26 C:\Users\User\.gradle\caches\transforms-3\a44a2e6e181a2f5d4d8018966e509238\transformed\sqlite-framework-2.3.0\res
+com.app.ebarter.app-cardview-1.0.0-27 C:\Users\User\.gradle\caches\transforms-3\a453403518425fa7130eff05ac28f318\transformed\cardview-1.0.0\res
+com.app.ebarter.app-lifecycle-livedata-core-2.5.1-28 C:\Users\User\.gradle\caches\transforms-3\a9788772093404627324574729eb4fdc\transformed\lifecycle-livedata-core-2.5.1\res
+com.app.ebarter.app-jetified-emoji2-views-helper-1.2.0-29 C:\Users\User\.gradle\caches\transforms-3\b2884b98c518e74c48b5fad82d1c9afb\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.app.ebarter.app-material-1.9.0-30 C:\Users\User\.gradle\caches\transforms-3\b558e6652a232a4b6b394298a7bb4b0e\transformed\material-1.9.0\res
+com.app.ebarter.app-media-1.0.0-31 C:\Users\User\.gradle\caches\transforms-3\bbe68906039b85e3d21721e6949afc39\transformed\media-1.0.0\res
+com.app.ebarter.app-jetified-lifecycle-service-2.4.0-32 C:\Users\User\.gradle\caches\transforms-3\c4ce132c1858f4baba623913d81abdb5\transformed\jetified-lifecycle-service-2.4.0\res
+com.app.ebarter.app-constraintlayout-2.0.1-33 C:\Users\User\.gradle\caches\transforms-3\c98c18b56b62be33250dc88d367dc3df\transformed\constraintlayout-2.0.1\res
+com.app.ebarter.app-core-1.10.1-34 C:\Users\User\.gradle\caches\transforms-3\ccfa6349e03454da55b94d358168ec68\transformed\core-1.10.1\res
+com.app.ebarter.app-jetified-hilt-work-1.0.0-35 C:\Users\User\.gradle\caches\transforms-3\ceb39c6f38c42ed372c5460990989274\transformed\jetified-hilt-work-1.0.0\res
+com.app.ebarter.app-work-runtime-2.8.1-36 C:\Users\User\.gradle\caches\transforms-3\dbccfb4deaf6902cf625128a491ccaa6\transformed\work-runtime-2.8.1\res
+com.app.ebarter.app-jetified-lifecycle-runtime-ktx-2.4.0-37 C:\Users\User\.gradle\caches\transforms-3\e3f7a2e2211ebf7a5bd253f49b382a8c\transformed\jetified-lifecycle-runtime-ktx-2.4.0\res
+com.app.ebarter.app-jetified-appcompat-resources-1.6.1-38 C:\Users\User\.gradle\caches\transforms-3\e588ded06bf760d262639bd10d29e9ef\transformed\jetified-appcompat-resources-1.6.1\res
+com.app.ebarter.app-lifecycle-viewmodel-2.5.1-39 C:\Users\User\.gradle\caches\transforms-3\eecbadd84dd6b36c9147002f2753a0b1\transformed\lifecycle-viewmodel-2.5.1\res
+com.app.ebarter.app-browser-1.4.0-40 C:\Users\User\.gradle\caches\transforms-3\f250fec929b0906addf4265f6ce4d84d\transformed\browser-1.4.0\res
+com.app.ebarter.app-lifecycle-runtime-2.5.1-41 C:\Users\User\.gradle\caches\transforms-3\fd334849449ed0a89886619e8045bef4\transformed\lifecycle-runtime-2.5.1\res
+com.app.ebarter.app-google-services-42 C:\Users\User\AndroidStudioProjects\E-Barter Mo\app\build\generated\res\google-services\release
+com.app.ebarter.app-pngs-43 C:\Users\User\AndroidStudioProjects\E-Barter Mo\app\build\generated\res\pngs\release
+com.app.ebarter.app-resValues-44 C:\Users\User\AndroidStudioProjects\E-Barter Mo\app\build\generated\res\resValues\release
+com.app.ebarter.app-packageReleaseResources-45 C:\Users\User\AndroidStudioProjects\E-Barter Mo\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.app.ebarter.app-packageReleaseResources-46 C:\Users\User\AndroidStudioProjects\E-Barter Mo\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.app.ebarter.app-merged_res-47 C:\Users\User\AndroidStudioProjects\E-Barter Mo\app\build\intermediates\merged_res\release
+com.app.ebarter.app-main-48 C:\Users\User\AndroidStudioProjects\E-Barter Mo\app\src\main\res
+com.app.ebarter.app-release-49 C:\Users\User\AndroidStudioProjects\E-Barter Mo\app\src\release\res
